@@ -2,4 +2,15 @@
 <img src="https://moe-counter.glitch.me/get/@:trulyheartless?theme=rule34">
 </div>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=trulyheartless&show_icons=true&theme=radical)
+<div align="center">
+
+- **Telegram:** [@drainingmoney](https://t.me/drainingmoney)  
+- **Signal:** [lossofclarity.01](https://signal.me/#p/lossofclarity.01)  
+- **Twitter:**  
+  - [@lossofclarity](https://twitter.com/lossofclarity)  
+  - [@losingmyclarity](https://twitter.com/losingmyclarity)  
+  - [@trulyheartlss](https://twitter.com/trulyheartlss)  
+- **Website:** [Your Website](https://yourwebsite.com) (replace with your actual website)  
+- **Bio Link:** [vamp.bio/noire](https://vamp.bio/noire)  
+
+</div>
