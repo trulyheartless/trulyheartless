@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**Telegram:** [@drainingmoney](https://t.me/drainingmoney)  
+**Telegram:** [@drainingmoney](https://t.me/trulyheartless)  
 **Signal:** [lossofclarity.01](https://signal.me/#p/lossofclarity.01)  
 **Twitter:**  
 [@lossofclarity](https://twitter.com/lossofclarity)  
