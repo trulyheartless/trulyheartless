@@ -14,10 +14,11 @@
 **Bio Link:** [vamp.bio/noire](https://vamp.bio/noire)  
 
 </div>
-<div align="center">
-  <img src="https://lanyard.cnrad.dev/api/1329487789364088882" alt="Discord Status" style="border: 2px solid black; border-radius: 10px;">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trulyheartless&layout=compact&theme=github_dark" alt="Top Languages" style="border: 2px solid black; border-radius: 10px;">
-</div>
+  <a href="https://discord.com/users/1329487789364088882">
+    <img
+      width="380"
+      height="195"
+      align="left"
+      src="https://lanyard.cnrad.dev/api/1329487789364088882?bg=FFFFFF00&animated=true&idleMessage=Noire%2C%20@%20swat.wiki%20&borderRadius=30px"
+    />
+    </a>
