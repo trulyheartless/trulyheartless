@@ -20,5 +20,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trulyheartless&show_icons=true&theme=radical" alt="GitHub Stats" style="border: 2px solid black; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trulyheartless&layout=compact&theme=github_dark" alt="Top Languages" style="border: 2px solid black; border-radius: 10px;">
 </div>
