@@ -15,9 +15,6 @@
 
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trulyheartless&show_icons=true&theme=github_dark" alt="GitHub Stats" style="border: 2px solid black; border-radius: 10px;">
-</div>
-<div align="center">
   <img src="https://lanyard.cnrad.dev/api/1329487789364088882" alt="Discord Status" style="border: 2px solid black; border-radius: 10px;">
 </div>
 
