@@ -19,7 +19,6 @@
     <img
       width="380"
       height="195"
-      align="left"
       src="https://lanyard.cnrad.dev/api/1329487789364088882?bg=FFFFFF00&animated=true&idleMessage=Noire%2C%20@%20swat.wiki%20&borderRadius=30px"
     />
     </a>
