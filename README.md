@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**Telegram:** [@drainingmoney](https://t.me/trulyheartless)  
+**Telegram:** [@mysqltable](https://t.me/mysqltable)  
 </div>
 <div align="center">
   <a href="https://discord.com/users/1329487789364088882">
