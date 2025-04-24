@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-
+https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/languages.svg#gh-dark-mode-only
 **Telegram:** [@mysqltable](https://t.me/mysqltable)  
 </div>
 <div align="center">
