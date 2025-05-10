@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/languages.svg" alt="GitHub Stats" id="gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/trulyheartless/github-stats/master/generated/languages.svg" alt="GitHub Stats" id="gh-dark-mode-only">
 </div>
 
 <div align="center">
