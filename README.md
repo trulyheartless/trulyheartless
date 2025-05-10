@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trulyheartless/github-stats/master/generated/languages.svg" alt="GitHub Stats" id="gh-dark-mode-only">
-</div>
-
-<div align="center">
   <strong>Telegram:</strong> <a href="https://t.me/mysqltable">@mysqltable</a>  
 </div>
 
