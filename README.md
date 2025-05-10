@@ -6,6 +6,7 @@
   <strong>Telegram:</strong> <a href="https://t.me/mysqltable">@mysqltable</a>  
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trulyheartless&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="trulyheartless's GitHub Stats" />
 <div align="center">
   <a href="https://discord.com/users/1329487789364088882">
     <img
